@@ -1,0 +1,85 @@
+{
+    "url": "https://vr-compare.com/headset/pimaxcrystalsuper",
+    "specs": {
+        "Info": {
+            "Website": "store.bigscreenvr.com",
+            "Device Type": "PC-powered VR",
+            "Platform": "SteamVR",
+            "Announced": "March 20, 2025",
+            "Release Date": "Unreleased",
+            "Retail Price": "$1019 headset only"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "48-75 mm hardware adjustable (manual)\nPhysical mechanism: 53-70 mm",
+            "Adjustable Diopter": "Prescription lens inserts available",
+            "Passthrough": ""
+        },
+        "Display": {
+            "Subpixel Layout": "RGB stripe\n3 subpixels per pixel",
+            "Peak Brightness": "",
+            "Resolution": "2560x2560 per-eye",
+            "Refresh Rate": "90 Hz\nWithout upscaling: 70 Hz"
+        },
+        "Image": {
+            "Rendered FoV": "100° horizontal\n91° vertical\n116° diagonal\nestimate",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "28.13 PPD vertical\nestimate",
+            "Peak Pixel Density": "",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "107 g without headstrap",
+            "Material": "Plastic, foam facial interface\nCustom-fit facial interface: $120",
+            "Headstrap": "Flexible fabric strap\nAudio strap: $129. Halo strap: $180",
+            "Haptics": "",
+            "Colors": "Black, orange, transparent",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "2 x SteamVR 2.0",
+            "Eye Tracking": "Eye tracking model: $200 extra",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": ""
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "DisplayPort 1.4, 2 x USB 3.0",
+            "Wireless Video": "",
+            "WiFi": "",
+            "Bluetooth": ""
+        }
+    },
+    "description": "The Bigscreen Beyond 2 is a virtual reality headset manufactured by Bigscreen. It was announced in March 2025. It will be the company's 2nd VR headset release.\n- This headset is unreleased.\n- This headset requires a connection to a PC in order to be used.\n- This headset has a high per-eye resolution. 2560x2560\n- This headset requires external base stations for full tracking capability.\n- This headset is sold without controllers.\nBigscreen Beyond 2 is Bigscreen's second ultra-lightweight PC-powered VR headset release. It features an extremely small form factor and a roughly 20% weight reduction from the original Bigscreen Beyond.",
+    "faq": [
+        {
+            "question": "When will Bigscreen Beyond 2 be released?",
+            "answer": "Bigscreen Beyond 2 will be released on June 1st, 2025."
+        },
+        {
+            "question": "How much will Bigscreen Beyond 2 cost?",
+            "answer": "The price for Bigscreen Beyond 2 will be $1019. This does not include any controllers."
+        },
+        {
+            "question": "What is the resolution of Bigscreen Beyond 2?",
+            "answer": "Bigscreen Beyond 2 has a resolution of 2560x2560 per-eye, totalling approximately 6.55 million pixels per-eye, or 13.11 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Bigscreen Beyond 2?",
+            "answer": "Bigscreen Beyond 2 will have an estimated horizontal field of view of 100 degrees. The vertical field of view of Bigscreen Beyond 2 is estimated to be 91 degrees. Additionally, the headset will have an estimated diagonal field of view of 116 degrees."
+        },
+        {
+            "question": "Will Bigscreen Beyond 2 have hand tracking?",
+            "answer": "Bigscreen Beyond 2 does not support hand tracking."
+        },
+        {
+            "question": "Will Bigscreen Beyond 2 have eye tracking?",
+            "answer": "Bigscreen Beyond 2 does not support eye tracking."
+        }
+    ]
+}

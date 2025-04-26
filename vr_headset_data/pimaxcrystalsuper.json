@@ -1,0 +1,92 @@
+{
+    "url": "https://vr-compare.com/headset/pimaxcrystalsuper",
+    "specs": {
+        "Info": {
+            "Website": "pimax.com",
+            "Device Type": "PC-powered VR",
+            "Platform": "Pimax Store, SteamVR",
+            "Announced": "April 15, 2024",
+            "Release Date": "January 31, 2025",
+            "Retail Price": "$1791 with controllers\n$999, $32.99 subscription over 24 months"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "58-72 mm hardware adjustable (automatic)",
+            "Adjustable Diopter": "",
+            "Passthrough": "Passthrough via tracking cameras"
+        },
+        "Display": {
+            "Subpixel Layout": "RGB stripe\n3 subpixels per pixel",
+            "Peak Brightness": "280 nits",
+            "Resolution": "3840x3840 per-eye\nMicro-OLED model: 3840x3552 per-eye",
+            "Refresh Rate": "100 Hz\nMicro-OLED model: 90 Hz"
+        },
+        "Image": {
+            "Rendered FoV": "",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "",
+            "Peak Pixel Density": "57 PPD",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "\"Reduced size and weight\" vs Pimax Crystal",
+            "Material": "Plastic, foam facial interface",
+            "Headstrap": "Hard padded retractable strap",
+            "Haptics": "",
+            "Colors": "Black",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "200 Hz eye tracking",
+            "Face Tracking": "",
+            "Hand Tracking": "120 Hz Ultraleap hand tracking sold separately",
+            "Body Tracking": ""
+        },
+        "Controllers": {
+            "Weight": "126 g",
+            "Input Methods": "Face buttons, joysticks, triggers",
+            "Finger Tracking": "Partial finger and thumb tracking via capacitive sensors",
+            "Haptics": "",
+            "Batteries": "Rechargeable\n600 mAh battery, USB-C charging"
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "DisplayPort\nIncludes 5 m DisplayPort cable",
+            "Wireless Video": "",
+            "WiFi": "",
+            "Bluetooth": ""
+        }
+    },
+    "description": "The Pimax Crystal Super is a virtual reality headset manufactured by Pimax. It was released in January 2025, following an announcement in April 2024. It is the company's 12th VR headset release.\n- This headset requires a connection to a PC in order to be used.\n- This headset has a high per-eye resolution. 3840x3840\n- This headset has a high refresh rate. 100 Hz\n- This headset has a high horizontal field of view. 120°\n- This headset does not require external base stations.\n- This headset can be purchased with two 6DoF controllers.\nPimax Crystal super features an interchangeable optical system, including both lenses and displays. This allows for the lenses in the headset to be replaced to modify the PPD, and also allows for the displays in the headset to be modified to allow the headset to be switched between QLED and Micro-OLED panels. Note that the lenses and displays are swappable as a single module, with the Micro-LED panels having narrower FoV lenses than the QLED panels.\n\nUnlike the original Pimax Crystal, Pimax Crystal Super features no standalone capability, resulting in the headset having a reduced weight at the expense of having to be tethered to a PC.\n\nPimax Crystal Super also features higher resolution displays than the original Crystal, with 3840x3840 per-eye displays vs 2880x2880 per-eye for the original Crystal headset.\nPimax Reality Controller, sold alongside the headset",
+    "faq": [
+        {
+            "question": "When was Pimax Crystal Super released?",
+            "answer": "Pimax Crystal Super was released on January 31st, 2025, following an announcement on April 15th, 2024."
+        },
+        {
+            "question": "How much does Pimax Crystal Super cost?",
+            "answer": "Pimax Crystal Super, complete with controllers can be purchased for $1791."
+        },
+        {
+            "question": "What is the resolution of Pimax Crystal Super?",
+            "answer": "Pimax Crystal Super has a resolution of 3840x3840 per-eye, totalling approximately 14.75 million pixels per-eye, or 29.49 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Pimax Crystal Super?",
+            "answer": "Pimax Crystal Super has an estimated horizontal field of view of 120 degrees. The vertical and diagonal FoV of Pimax Crystal Super is not yet known."
+        },
+        {
+            "question": "Does Pimax Crystal Super have hand tracking?",
+            "answer": "Pimax Crystal Super does not support hand tracking."
+        },
+        {
+            "question": "Does Pimax Crystal Super have eye tracking?",
+            "answer": "Pimax Crystal Super supports eye tracking."
+        }
+    ]
+}

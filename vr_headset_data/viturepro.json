@@ -1,0 +1,85 @@
+{
+    "url": "https://vr-compare.com/headset/viturepro",
+    "specs": {
+        "Info": {
+            "Website": "viture.com",
+            "Device Type": "Phone-powered AR\nCan also be powered by neckband or Mobile Dock",
+            "Platform": "",
+            "Announced": "May 21, 2024",
+            "Release Date": "June 1, 2024",
+            "Retail Price": "$459 headset only\nMobile dock and neckband sold separately"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "57-69 mm software adjustable (manual)",
+            "Adjustable Diopter": "0 to -5 diopters",
+            "Passthrough": "native passthrough"
+        },
+        "Display": {
+            "Subpixel Layout": "",
+            "Peak Brightness": "4000 nits",
+            "Resolution": "1920x1080 per-eye",
+            "Refresh Rate": "120 Hz"
+        },
+        "Image": {
+            "Rendered FoV": "",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "",
+            "Peak Pixel Density": "49 PPD",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "77 g with headstrap",
+            "Material": "Aluminium",
+            "Headstrap": "Glasses-style frame",
+            "Haptics": "",
+            "Colors": "Black",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": ""
+        },
+        "Sound": {
+            "Microphone": "Requires neckband",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "USB Type-C",
+            "Wireless Video": "Video casting (requires neckband or mobile dock)",
+            "WiFi": "Requires neckband or mobile dock",
+            "Bluetooth": "Requires neckband or mobile dock"
+        }
+    },
+    "description": "The Viture Pro is an augmented reality headset manufactured by Viture. It was released in June 2024, following an announcement in May 2024. It is the company's 3rd AR headset release.\n- This headset requires a connection to a phone in order to be used.\n- This headset is lightweight. 77 g\n- This headset has a high per-eye resolution. 1920x1080\n- This headset has a high refresh rate. 120 Hz\n- This headset uses non-positional 3DoF tracking.\n- This headset is sold without controllers.\nThe Viture Pro XR Glasses feature dual 1080p 120 Hz displays, offering 4000 nits of brightness, an improvement over the 1800 nits offered by the Viture One. They include myopia adjustments and an electrochromic film that blocks up to 99.5% of external light.\n\nViture Pro also features an aluminium construction with titanium hinges to ensure the durability of the product.",
+    "faq": [
+        {
+            "question": "When was Viture Pro released?",
+            "answer": "Viture Pro was released on June 1st, 2024, following an announcement on May 21st, 2024."
+        },
+        {
+            "question": "How much does Viture Pro cost?",
+            "answer": "The price for Viture Pro is $459. This does not include any controllers."
+        },
+        {
+            "question": "What is the resolution of Viture Pro?",
+            "answer": "Viture Pro has a resolution of 1920x1080 per-eye, totalling approximately 2.07 million pixels per-eye, or 4.15 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Viture Pro?",
+            "answer": "Viture Pro has an estimated diagonal field of view of 46 degrees. The horizontal and vertical FoV of Viture Pro is not yet known."
+        },
+        {
+            "question": "Does Viture Pro have hand tracking?",
+            "answer": "Viture Pro does not support hand tracking."
+        },
+        {
+            "question": "Does Viture Pro have eye tracking?",
+            "answer": "Viture Pro does not support eye tracking."
+        }
+    ]
+}

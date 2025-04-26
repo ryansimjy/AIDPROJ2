@@ -1,0 +1,98 @@
+{
+    "url": "https://vr-compare.com/headset/tclrayneox2",
+    "specs": {
+        "Info": {
+            "Website": "rayneo.com",
+            "Device Type": "Standalone AR",
+            "Platform": "",
+            "Announced": "January 4, 2023",
+            "Release Date": "March 1, 2024",
+            "Retail Price": ""
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "",
+            "Adjustable Diopter": "",
+            "Passthrough": "Native passthrough, 16MP RGB camera"
+        },
+        "Display": {
+            "Subpixel Layout": "RGB stripe\n3 subpixels per pixel",
+            "Peak Brightness": "1000 nits",
+            "Resolution": "",
+            "Refresh Rate": ""
+        },
+        "Image": {
+            "Rendered FoV": "",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "",
+            "Peak Pixel Density": "",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "",
+            "Material": "Plastic",
+            "Headstrap": "Glasses-style frame",
+            "Haptics": "",
+            "Colors": "Black",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": ""
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "",
+            "Wireless Video": "",
+            "WiFi": "WiFi\nestimate",
+            "Bluetooth": "Bluetooth"
+        },
+        "System": {
+            "Chipset": "Qualcomm Snapdragon XR2",
+            "CPU": "Octa-core Kryo 585 (1 x 2.84 GHz, 3 x 2.42 GHz, 4 x 1.8 GHz)",
+            "GPU": "Adreno 650"
+        },
+        "Storage": {
+            "Storage": "128 GB\nestimate",
+            "SD Card Slot": ""
+        },
+        "Battery": {
+            "Battery Life": "",
+            "Charge Time": ""
+        }
+    },
+    "description": "The TCL RayNeo X2 is an augmented reality headset manufactured by TCL. It was released in March 2024, following an announcement in January 2023. It is the company's 3rd AR headset release.\n- This headset is standalone and does not require a PC to use.\n- This headset does not require external base stations.\n- This headset is sold without controllers.\nTCL RayNeo X2 is the marketed as \"the world's first binocular full-color micro-LED optical waveguide AR glasses\". The device features two waveguide displays allowing for binocular AR content to be displayed in color to the wearer.\n\nThe TCL RayNeo X2 makes use of an integrated Snapdragon XR2 chipset to provide advanced functionality, including realtime mapping of locations and translation of text and spoken language.\n\nTCL RayNeo X2 was announced during CES 2023.",
+    "faq": [
+        {
+            "question": "When was TCL RayNeo X2 released?",
+            "answer": "TCL RayNeo X2 was released on March 1st, 2024, following an announcement on January 4th, 2023."
+        },
+        {
+            "question": "How much does TCL RayNeo X2 cost?",
+            "answer": "The price of TCL RayNeo X2 is not yet known."
+        },
+        {
+            "question": "What is the resolution of TCL RayNeo X2?",
+            "answer": "The resolution of TCL RayNeo X2 is not yet publicly known."
+        },
+        {
+            "question": "What is the FoV of TCL RayNeo X2?",
+            "answer": "TCL RayNeo X2 has an estimated diagonal field of view of 25 degrees. The horizontal and vertical FoV of TCL RayNeo X2 is not yet known."
+        },
+        {
+            "question": "Does TCL RayNeo X2 have hand tracking?",
+            "answer": "It is not yet known if TCL RayNeo X2 supports hand tracking."
+        },
+        {
+            "question": "Does TCL RayNeo X2 have eye tracking?",
+            "answer": "TCL RayNeo X2 does not support eye tracking."
+        }
+    ]
+}

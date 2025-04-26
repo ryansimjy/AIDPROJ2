@@ -1,0 +1,85 @@
+{
+    "url": "https://vr-compare.com/headset/xrealair2ultra",
+    "specs": {
+        "Info": {
+            "Website": "xreal.com",
+            "Device Type": "Phone-powered AR\nCan also be powered by a PC or tablet",
+            "Platform": "Nebula",
+            "Announced": "January 7, 2024",
+            "Release Date": "July 1, 2024",
+            "Retail Price": "$699 headset only"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "",
+            "Adjustable Diopter": "Prescription lens inserts available",
+            "Passthrough": "Native passthrough"
+        },
+        "Display": {
+            "Subpixel Layout": "",
+            "Peak Brightness": "500 nits\n3D mode: up to 250 nits",
+            "Resolution": "1920x1080 per-eye",
+            "Refresh Rate": "120 Hz\n3D mode: 90 Hz"
+        },
+        "Image": {
+            "Rendered FoV": "",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "",
+            "Peak Pixel Density": "",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "80 g with headstrap",
+            "Material": "Titanium, plastic",
+            "Headstrap": "Glasses-style frame",
+            "Haptics": "",
+            "Colors": "Black",
+            "Compliances": "TUV flicker-free, low blue light, eye comfort, color accuracy"
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": ""
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "USB Type-C",
+            "Wireless Video": "",
+            "WiFi": "",
+            "Bluetooth": ""
+        }
+    },
+    "description": "The Xreal Air 2 Ultra is an augmented reality headset manufactured by Xreal. It was released in July 2024, following an announcement in January 2024. It is the company's 3rd AR headset release.\n- This headset requires a connection to a phone in order to be used.\n- This headset is lightweight. 80 g\n- This headset has a high per-eye resolution. 1920x1080\n- This headset has a high refresh rate. 120 Hz\n- This headset does not require external base stations.\n- This headset is sold without controllers.\nXreal Air 2 Ultra is an improved version of the original Xreal 2, featuring advanced features including integrated head and hand tracking (via two integrated cameras), and a durable titanium frame.\n\nXreal AIr 2 features tracking capabilities that allow hand gesture recorgnition, and can produce a depth mesh of the wearer's environment with semantic labelling of objects in the space.\n\nXreal Air 2 is the company's second pair of AR glasses to feature 6 DoF tracking, the first of which being the Nreal Light, released in 2020.\n\nXreal Air 2 is compatible with Mac and Windwos devices, Samsung Android phones, and iPhones.",
+    "faq": [
+        {
+            "question": "When was Xreal Air 2 Ultra released?",
+            "answer": "Xreal Air 2 Ultra was released on July 1st, 2024, following an announcement on January 7th, 2024."
+        },
+        {
+            "question": "How much does Xreal Air 2 Ultra cost?",
+            "answer": "The price for Xreal Air 2 Ultra is $699. This does not include any controllers."
+        },
+        {
+            "question": "What is the resolution of Xreal Air 2 Ultra?",
+            "answer": "Xreal Air 2 Ultra has a resolution of 1920x1080 per-eye, totalling approximately 2.07 million pixels per-eye, or 4.15 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Xreal Air 2 Ultra?",
+            "answer": "Xreal Air 2 Ultra has an estimated diagonal field of view of 52 degrees. The horizontal and vertical FoV of Xreal Air 2 Ultra is not yet known."
+        },
+        {
+            "question": "Does Xreal Air 2 Ultra have hand tracking?",
+            "answer": "Xreal Air 2 Ultra supports hand tracking."
+        },
+        {
+            "question": "Does Xreal Air 2 Ultra have eye tracking?",
+            "answer": "Xreal Air 2 Ultra does not support eye tracking."
+        }
+    ]
+}

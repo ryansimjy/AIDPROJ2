@@ -1,0 +1,105 @@
+{
+    "url": "https://vr-compare.com/headset/metaquestpro",
+    "specs": {
+        "Info": {
+            "Website": "meta.com",
+            "Device Type": "Standalone VR",
+            "Platform": "Meta Quest",
+            "Announced": "October 28, 2021",
+            "Release Date": "October 25, 2022",
+            "Retail Price": "$999 with controllers\nLaunch price: $1,499"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "55-75 mm hardware adjustable (manual)",
+            "Adjustable Diopter": "",
+            "Passthrough": "Color passthrough"
+        },
+        "Display": {
+            "Subpixel Layout": "RGB stripe\n3 subpixels per pixel",
+            "Peak Brightness": "",
+            "Resolution": "1800x1920 per-eye",
+            "Refresh Rate": "90 Hz\n72 Hz mode available"
+        },
+        "Image": {
+            "Rendered FoV": "108° horizontal\n95.57° vertical\n111.24° diagonal",
+            "Binocular Overlap": "79.72°",
+            "Average Pixel Density": "19.17 PPD horizontal\n18.83 PPD vertical",
+            "Peak Pixel Density": "22 PPD",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "722 g with headstrap",
+            "Material": "Plastic, foam facial interface",
+            "Headstrap": "Hard padded retractable strap",
+            "Haptics": "",
+            "Colors": "Black",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": ""
+        },
+        "Controllers": {
+            "Weight": "164 g",
+            "Input Methods": "Capacitive face buttons, capacitive joystick, capacitive touch pad, capacitive index trigger, middle finger trigger, removable stylus attachment",
+            "Finger Tracking": "Partial finger and thumb tracking via capacitive sensors",
+            "Haptics": "",
+            "Batteries": "Rechargeable 8 hour battery life\nestimate"
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "USB Type-C\nOculus Link",
+            "Wireless Video": "WiFi streaming\nVirtual Desktop, AirLink",
+            "WiFi": "WiFi 6E",
+            "Bluetooth": "Bluetooth 5.2"
+        },
+        "System": {
+            "Chipset": "Qualcomm Snapdragon XR2+",
+            "CPU": "Octa-core Kryo 585 (1 x 2.84 GHz, 3 x 2.42 GHz, 4 x 1.8 GHz)",
+            "GPU": "Adreno 650"
+        },
+        "Storage": {
+            "Storage": "256 GB",
+            "SD Card Slot": ""
+        },
+        "Battery": {
+            "Battery Life": "2 hours",
+            "Charge Time": ""
+        }
+    },
+    "description": "",
+    "faq": [
+        {
+            "question": "When was Meta Quest Pro released?",
+            "answer": "Meta Quest Pro was released on October 25th, 2022, following an announcement on October 28th, 2021."
+        },
+        {
+            "question": "How much does Meta Quest Pro cost?",
+            "answer": "Meta Quest Pro, complete with controllers can be purchased for $999."
+        },
+        {
+            "question": "What is the resolution of Meta Quest Pro?",
+            "answer": "Meta Quest Pro has a resolution of 1800x1920 per-eye, totalling approximately 3.46 million pixels per-eye, or 6.91 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Meta Quest Pro?",
+            "answer": "Meta Quest Pro has an estimated horizontal field of view of 106 degrees. Additionally, the headset has an estimated diagonal field of view of 95.57 degrees. The vertical FoV of Meta Quest Pro is not yet known."
+        },
+        {
+            "question": "Does Meta Quest Pro have hand tracking?",
+            "answer": "Meta Quest Pro supports hand tracking."
+        },
+        {
+            "question": "Does Meta Quest Pro have eye tracking?",
+            "answer": "Meta Quest Pro supports eye and face tracking."
+        }
+    ]
+}

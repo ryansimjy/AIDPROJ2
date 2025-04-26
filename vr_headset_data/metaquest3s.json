@@ -1,0 +1,105 @@
+{
+    "url": "https://vr-compare.com/headset/metaquest3s",
+    "specs": {
+        "Info": {
+            "Website": "meta.com",
+            "Device Type": "Standalone VR",
+            "Platform": "Meta Quest",
+            "Announced": "September 25, 2024",
+            "Release Date": "October 15, 2024",
+            "Retail Price": "$299 with controllers\n*128GB model. 256 GB: $399"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "58-68 mm hardware adjustable (manual)\n3 fixed IPD settings",
+            "Adjustable Diopter": "",
+            "Passthrough": "Dual RGB passthrough cameras"
+        },
+        "Display": {
+            "Subpixel Layout": "RGB stripe\n3 subpixels per pixel",
+            "Peak Brightness": "100 nits",
+            "Resolution": "1832x1920 per-eye",
+            "Refresh Rate": "120 Hz"
+        },
+        "Image": {
+            "Rendered FoV": "104° horizontal\n98° vertical\n113.46° diagonal",
+            "Binocular Overlap": "90°",
+            "Average Pixel Density": "18.88 PPD horizontal\n18.69 PPD vertical",
+            "Peak Pixel Density": "20 PPD",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "514 g with headstrap",
+            "Material": "Plastic, foam facial interface",
+            "Headstrap": "Flexible fabric strap",
+            "Haptics": "",
+            "Colors": "White",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": "Upper body tracking with leg position estimation"
+        },
+        "Controllers": {
+            "Weight": "",
+            "Input Methods": "Capacitive face buttons, capacitive joystick, capacitive touch pad, capacitive index trigger, middle finger trigger",
+            "Finger Tracking": "Partial finger and thumb tracking via capacitive sensors",
+            "Haptics": "",
+            "Batteries": "AA"
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "USB Type-C",
+            "Wireless Video": "WiFi streaming",
+            "WiFi": "WiFi 6E",
+            "Bluetooth": "Bluetooth"
+        },
+        "System": {
+            "Chipset": "Qualcomm Snapdragon XR2 Gen 2",
+            "CPU": "Octa-core Kryo (1 x 3.19 GHz, 4 x 2.8 GHz, 3 x 2.0 GHz)",
+            "GPU": "Adreno 740"
+        },
+        "Storage": {
+            "Storage": "128 GB\n256 GB model available",
+            "SD Card Slot": ""
+        },
+        "Battery": {
+            "Battery Life": "2.5 hours",
+            "Charge Time": ""
+        }
+    },
+    "description": "The Meta Quest 3S is a virtual reality headset manufactured by Meta. It was released in October 2024, following an announcement in September 2024. It is the company's 3rd VR headset release.\n- This headset is standalone and does not require a PC to use.\n- This headset has a high refresh rate. 120 Hz\n- This headset does not require external base stations.\n- This headset can be purchased with two 6DoF controllers.\nThe Meta Quest 3S is a cost-reduced alternative to the Meta Quest 3. It is features the fresnel lenses found on the Quest 2, while being equipped with the Quest 3's superior Qualcomm Snapdragon XR2 Gen 2 chipset.\n\nThis allows the Quest 3 S to be sold at a lower price point than the original Quest 3, lowering the barrier to entry for Meta headsets and replacing the market position of the company's previous generation headset, the Meta Quest 2.\n\nThe name \"Meta Quest 3S\" was leaked via an app listing page on the Meta Quest store on May 31st, 2024.\nMeta Quest Touch Plus Controllers, sold alongside the headset",
+    "faq": [
+        {
+            "question": "When was Meta Quest 3S released?",
+            "answer": "Meta Quest 3S was released on October 15th, 2024, following an announcement on September 25th, 2024."
+        },
+        {
+            "question": "How much does Meta Quest 3S cost?",
+            "answer": "Meta Quest 3S, complete with controllers can be purchased for $299."
+        },
+        {
+            "question": "What is the resolution of Meta Quest 3S?",
+            "answer": "Meta Quest 3S has a resolution of 1832x1920 per-eye, totalling approximately 3.52 million pixels per-eye, or 7.03 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Meta Quest 3S?",
+            "answer": "Meta Quest 3S has a horizontal field of view of 97 degrees. The vertical field of view of Meta Quest 3S is 93 degrees. The diagonal FoV of Meta Quest 3S is not yet known."
+        },
+        {
+            "question": "Does Meta Quest 3S have hand tracking?",
+            "answer": "Meta Quest 3S supports hand and body tracking."
+        },
+        {
+            "question": "Does Meta Quest 3S have eye tracking?",
+            "answer": "Meta Quest 3S does not support eye tracking."
+        }
+    ]
+}

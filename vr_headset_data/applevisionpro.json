@@ -1,0 +1,98 @@
+{
+    "url": "https://vr-compare.com/headset/applevisionpro",
+    "specs": {
+        "Info": {
+            "Website": "apple.com",
+            "Device Type": "Standalone VR\nIncludes external battery",
+            "Platform": "visionOS",
+            "Announced": "June 5, 2023",
+            "Release Date": "February 2, 2024",
+            "Retail Price": "$3499 headset only\n256GB model. 512GB: $3700, 1TB: $3900"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "51-75 mm hardware adjustable (automatic)",
+            "Adjustable Diopter": "Prescription inserts available",
+            "Passthrough": "Dual 6.5MP passthrough cameras"
+        },
+        "Display": {
+            "Subpixel Layout": "RGB π type\n3 subpixels per pixel",
+            "Peak Brightness": "",
+            "Resolution": "3660x3200 per-eye\nestimate",
+            "Refresh Rate": "100 Hz\nAlso supports 96 Hz and 90 Hz modes"
+        },
+        "Image": {
+            "Rendered FoV": "",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "",
+            "Peak Pixel Density": "",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "600 g without headstrap\n650 g with headstrap\nExternal battery: 353g\nestimate",
+            "Material": "Aluminium, glass, fabric facial interface",
+            "Headstrap": "Padded retractable strap\nRemovable",
+            "Haptics": "",
+            "Colors": "Silver / black",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "estimate",
+            "Hand Tracking": "",
+            "Body Tracking": ""
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "",
+            "Wireless Video": "",
+            "WiFi": "WiFi 6",
+            "Bluetooth": "Bluetooth 5.3"
+        },
+        "System": {
+            "Chipset": "Apple M2, Apple R1",
+            "CPU": "Octa-core Avalanche / Blizzard (4 x 3.5 GHz, 4 x 2.4 GHz)",
+            "GPU": "Apple M2 10-core GPU"
+        },
+        "Storage": {
+            "Storage": "",
+            "SD Card Slot": ""
+        },
+        "Battery": {
+            "Battery Life": "2 hours",
+            "Charge Time": "Includes 30W USB-C Adapter"
+        }
+    },
+    "description": "The Apple Vision Pro is a virtual reality headset manufactured by Apple. It was released in February 2024, following an announcement in June 2023. It is the company's 1st VR headset release.\n- This headset is standalone and does not require a PC to use.\n- This headset has a high per-eye resolution. 3660x3200\n- This headset has a high refresh rate. 100 Hz\n- This headset does not require external base stations.\n- This headset is sold without controllers.\nApple Vision Pro is Apple's first XR device, intended to be used primarily for mixed reality content. It features a front display that shows the wearer's eyes, allowing the wearer to make eye contract with others outside of the headset.\n\nApple Vision Pro uses iris scanning to authenticate users while wearing the headset, allowing for the wearer to security make payments and access secure resources.\n\nApple Vision Pro required the filing of over 5000 patents for technologies used in the device.\n\nApple Vision Pro was announced during Apple's Keynote speech at WWDC 2023.",
+    "faq": [
+        {
+            "question": "When was Apple Vision Pro released?",
+            "answer": "Apple Vision Pro was released on February 2nd, 2024, following an announcement on June 5th, 2023."
+        },
+        {
+            "question": "How much does Apple Vision Pro cost?",
+            "answer": "The price for Apple Vision Pro is $3499. This does not include any controllers."
+        },
+        {
+            "question": "What is the resolution of Apple Vision Pro?",
+            "answer": "Apple Vision Pro has an estimated resolution of 3660x3200 per-eye, totalling approximately 11.71 million pixels per-eye, or 23.42 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Apple Vision Pro?",
+            "answer": "The field of view of Apple Vision Pro is not yet known."
+        },
+        {
+            "question": "Does Apple Vision Pro have hand tracking?",
+            "answer": "Apple Vision Pro supports hand tracking."
+        },
+        {
+            "question": "Does Apple Vision Pro have eye tracking?",
+            "answer": "Apple Vision Pro supports eye and face tracking."
+        }
+    ]
+}

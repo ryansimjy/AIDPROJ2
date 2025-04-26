@@ -1,0 +1,85 @@
+{
+    "url": "https://vr-compare.com/headset/asusairvisionm1",
+    "specs": {
+        "Info": {
+            "Website": "asus.com",
+            "Device Type": "PC-powered AR",
+            "Platform": "",
+            "Announced": "January 15, 2025",
+            "Release Date": "January 15, 2025",
+            "Retail Price": "$699 headset only"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "",
+            "Adjustable Diopter": "",
+            "Passthrough": "Native passthrough"
+        },
+        "Display": {
+            "Subpixel Layout": "",
+            "Peak Brightness": "1100 nits",
+            "Resolution": "1920x1080 per-eye",
+            "Refresh Rate": "72 Hz"
+        },
+        "Image": {
+            "Rendered FoV": "38° diagonal\nestimate",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "",
+            "Peak Pixel Density": "58 PPD",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "87 g with headstrap",
+            "Material": "Plastic",
+            "Headstrap": "Glasses-style frame",
+            "Haptics": "",
+            "Colors": "Black",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": ""
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "DisplayPort via USB-C",
+            "Wireless Video": "",
+            "WiFi": "",
+            "Bluetooth": ""
+        }
+    },
+    "description": "The Asus AirVision M1 is an augmented reality headset manufactured by Asus. It was released in January 2025, following an announcement in January 2025. It is the company's 1st AR headset release.\n- This headset requires a connection to a PC in order to be used.\n- This headset is lightweight. 87 g\n- This headset has a high per-eye resolution. 1920x1080\n- This headset has a low refresh rate. 72 Hz\n- This headset uses non-positional 3DoF tracking.\n- This headset is sold without controllers.\nAsus AirVision M1 features a companion app that allows for use as a virtual display with a source PC, including support for multiple virtual screens.\n\nAirVision M1 is marketed as natively compatible with the ROG Ally, allowing for the device to be used as a virtual display for the console when connected.",
+    "faq": [
+        {
+            "question": "When was Asus AirVision M1 released?",
+            "answer": "Asus AirVision M1 was released on January 15th, 2025, following an announcement on January 15th, 2025."
+        },
+        {
+            "question": "How much does Asus AirVision M1 cost?",
+            "answer": "The price for Asus AirVision M1 is $699. This does not include any controllers."
+        },
+        {
+            "question": "What is the resolution of Asus AirVision M1?",
+            "answer": "Asus AirVision M1 has a resolution of 1920x1080 per-eye, totalling approximately 2.07 million pixels per-eye, or 4.15 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Asus AirVision M1?",
+            "answer": "Asus AirVision M1 has an estimated diagonal field of view of 38 degrees. The horizontal and vertical FoV of Asus AirVision M1 is not yet known."
+        },
+        {
+            "question": "Does Asus AirVision M1 have hand tracking?",
+            "answer": "Asus AirVision M1 does not support hand tracking."
+        },
+        {
+            "question": "Does Asus AirVision M1 have eye tracking?",
+            "answer": "Asus AirVision M1 does not support eye tracking."
+        }
+    ]
+}

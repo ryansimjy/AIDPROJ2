@@ -1,0 +1,98 @@
+{
+    "url": "https://vr-compare.com/headset/microsofthololens2",
+    "specs": {
+        "Info": {
+            "Website": "microsoft.com",
+            "Device Type": "Standalone AR",
+            "Platform": "Windows Mixed Reality",
+            "Announced": "May 2, 2019",
+            "Release Date": "November 7, 2019",
+            "Retail Price": "$3500 headset only"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "",
+            "Adjustable Diopter": "",
+            "Passthrough": "Native passthrough, 8MP camera @ 30fps"
+        },
+        "Display": {
+            "Subpixel Layout": "",
+            "Peak Brightness": "",
+            "Resolution": "1440x936 per-eye",
+            "Refresh Rate": "60 Hz"
+        },
+        "Image": {
+            "Rendered FoV": "",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "",
+            "Peak Pixel Density": "",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "556 g with headstrap",
+            "Material": "Plastic, foam",
+            "Headstrap": "Hard padded retractable strap",
+            "Haptics": "",
+            "Colors": "Gray",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": ""
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "",
+            "Wireless Video": "",
+            "WiFi": "WiFi 5 (802.11ac 2x2)",
+            "Bluetooth": "Bluetooth 5.0"
+        },
+        "System": {
+            "Chipset": "Qualcomm Snapdragon 850",
+            "CPU": "Octa-core Kryo 385 (4x 2.96 GHz, 4 x 1.8 GHz)",
+            "GPU": "Adreno 630"
+        },
+        "Storage": {
+            "Storage": "64 GB",
+            "SD Card Slot": ""
+        },
+        "Battery": {
+            "Battery Life": "3 hours",
+            "Charge Time": ""
+        }
+    },
+    "description": "The Microsoft HoloLens 2 is an augmented reality headset manufactured by Microsoft. It was released in November 2019, following an announcement in May 2019. It is the company's 2nd AR headset release.\n- This headset is standalone and does not require a PC to use.\n- This headset is heavy. 556 g\n- This headset has a low refresh rate. 60 Hz\n- This headset has a high horizontal field of view. 43°\n- This headset does not require external base stations.\n- This headset is sold without controllers.",
+    "faq": [
+        {
+            "question": "When was Microsoft HoloLens 2 released?",
+            "answer": "Microsoft HoloLens 2 was released on November 7th, 2019, following an announcement on May 2nd, 2019."
+        },
+        {
+            "question": "How much does Microsoft HoloLens 2 cost?",
+            "answer": "The price for Microsoft HoloLens 2 is $3500. This does not include any controllers."
+        },
+        {
+            "question": "What is the resolution of Microsoft HoloLens 2?",
+            "answer": "Microsoft HoloLens 2 has a resolution of 1440x936 per-eye, totalling approximately 1.35 million pixels per-eye, or 2.7 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Microsoft HoloLens 2?",
+            "answer": "Microsoft HoloLens 2 has a horizontal field of view of 43 degrees. The vertical field of view of Microsoft HoloLens 2 is 29 degrees. Additionally, the headset has a diagonal field of view of 52 degrees."
+        },
+        {
+            "question": "Does Microsoft HoloLens 2 have hand tracking?",
+            "answer": "Microsoft HoloLens 2 supports hand tracking."
+        },
+        {
+            "question": "Does Microsoft HoloLens 2 have eye tracking?",
+            "answer": "Microsoft HoloLens 2 supports eye tracking."
+        }
+    ]
+}

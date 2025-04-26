@@ -1,0 +1,105 @@
+{
+    "url": "https://vr-compare.com/headset/metaquest3",
+    "specs": {
+        "Info": {
+            "Website": "meta.com",
+            "Device Type": "Standalone VR",
+            "Platform": "Meta Quest",
+            "Announced": "June 1, 2023",
+            "Release Date": "October 10, 2023",
+            "Retail Price": "$499 with controllers\n128 GB model. 512 GB model: $649"
+        },
+        "Optics": {
+            "Ocularity": "Binocular",
+            "IPD Range": "58-71 mm hardware adjustable (manual)",
+            "Adjustable Diopter": "Prescription lens inserts sold separately",
+            "Passthrough": "Dual 18 PPD color passthrough cameras"
+        },
+        "Display": {
+            "Subpixel Layout": "RGB stripe\n3 subpixels per pixel",
+            "Peak Brightness": "",
+            "Resolution": "2064x2208 per-eye",
+            "Refresh Rate": "120 Hz"
+        },
+        "Image": {
+            "Rendered FoV": "",
+            "Binocular Overlap": "",
+            "Average Pixel Density": "",
+            "Peak Pixel Density": "25 PPD",
+            "Foveated Rendering": ""
+        },
+        "Device": {
+            "Weight": "515 g with headstrap",
+            "Material": "Plastic, foam facial interface",
+            "Headstrap": "Flexible fabric strap",
+            "Haptics": "",
+            "Colors": "White",
+            "Compliances": ""
+        },
+        "Tracking": {
+            "Tracking Frequency": "",
+            "Base Stations": "",
+            "Eye Tracking": "",
+            "Face Tracking": "",
+            "Hand Tracking": "",
+            "Body Tracking": "Upper body tracking with leg position estimation"
+        },
+        "Controllers": {
+            "Weight": "",
+            "Input Methods": "Capacitive face buttons, capacitive joystick, capacitive touch pad, capacitive index trigger, middle finger trigger",
+            "Finger Tracking": "Partial finger and thumb tracking via capacitive sensors",
+            "Haptics": "",
+            "Batteries": "AA"
+        },
+        "Sound": {
+            "Microphone": "",
+            "3.5mm Audio Jack": ""
+        },
+        "Connectivity": {
+            "Wired Video": "USB Type-C\nOculus Link",
+            "Wireless Video": "WiFi streaming\nVirtual Desktop, AirLink",
+            "WiFi": "WiFi 6E",
+            "Bluetooth": "Bluetooth"
+        },
+        "System": {
+            "Chipset": "Qualcomm Snapdragon XR2 Gen 2",
+            "CPU": "Octa-core Kryo (1 x 3.19 GHz, 4 x 2.8 GHz, 3 x 2.0 GHz)",
+            "GPU": "Adreno 740"
+        },
+        "Storage": {
+            "Storage": "128 GB\nHigher storage model also available",
+            "SD Card Slot": ""
+        },
+        "Battery": {
+            "Battery Life": "2.2 hours",
+            "Charge Time": "2.3 hours\n18W power adapter"
+        }
+    },
+    "description": "The Meta Quest 3 is a virtual reality headset manufactured by Meta. It was released in October 2023, following an announcement in June 2023. It is the company's 2nd VR headset release.\n- This headset is standalone and does not require a PC to use.\n- This headset has a high per-eye resolution. 2064x2208\n- This headset has a high refresh rate. 120 Hz\n- This headset has a high horizontal field of view. 110°\n- This headset does not require external base stations.\n- This headset can be purchased with two 6DoF controllers.\nThe Meta Quest 3 is Meta's successor to the Meta Quest 2 (formerly known as the Oculus Quest 2).\n\nMeta Quest 3 (also referred to under the codenames \"Stinson\" and \"Eureka\") features an improved design over the Quest 2, making use of pancake optics to reduce the device's profile and improve comfort for the wearer.\n\nThe Meta Quest 3 is the first Meta headset to make use of the Snapdragon XR2 Gen 2 chipset, making it significantly more powerful than both the Quest 2 and the Quest Pro, while being priced significantly cheaper than the Quest Pro.\nMeta Quest Touch Plus Controllers, sold alongside the headset",
+    "faq": [
+        {
+            "question": "When was Meta Quest 3 released?",
+            "answer": "Meta Quest 3 was released on October 10th, 2023, following an announcement on June 1st, 2023."
+        },
+        {
+            "question": "How much does Meta Quest 3 cost?",
+            "answer": "Meta Quest 3, complete with controllers can be purchased for $499."
+        },
+        {
+            "question": "What is the resolution of Meta Quest 3?",
+            "answer": "Meta Quest 3 has a resolution of 2064x2208 per-eye, totalling approximately 4.56 million pixels per-eye, or 9.11 million pixels overall."
+        },
+        {
+            "question": "What is the FoV of Meta Quest 3?",
+            "answer": "Meta Quest 3 has an estimated horizontal field of view of 110 degrees. The vertical field of view of Meta Quest 3 is estimated to be 96 degrees. The diagonal FoV of Meta Quest 3 is not yet known."
+        },
+        {
+            "question": "Does Meta Quest 3 have hand tracking?",
+            "answer": "Meta Quest 3 supports hand and body tracking."
+        },
+        {
+            "question": "Does Meta Quest 3 have eye tracking?",
+            "answer": "Meta Quest 3 does not support eye tracking."
+        }
+    ]
+}
